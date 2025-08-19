@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** John (JP) Syslo 
+**Date:** 8/9/2025
 
 ---
 
@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a version control system while Github is a easy to use interface that allows users to interact with Git without having to use a terminal.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commits are basically "checkpoints" that save your work and push it to your local repo, there people also working with you on the same network can interact with your code. You can even leave a helpful message. Pushing pushes all the commits to the remote repo, pushing it onto the internet such as on Github for everybody to see. These are important as they help keep code clean and descriptive with commit/push messages as well as leave you with versions in case a bug or flaw pops up.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository contains the code you push. It also contains a README.md that can be used to give users information on how to use the code contained in your repo and how it works and more.
 
 ---
 
@@ -26,7 +26,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[https://github.com/johnsyslo/johnsyslo]
 
 ---
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm most excited to learn how it works. I currently can't really wrap my head around how the computers turn numbers into full words and can do such complicated things. I want to be able to understand how it works and maybe even make my own small version.
 
 ---
 
